@@ -2,7 +2,7 @@
   "name": "starter-cra-and-react",
   "version": "1.0.0",
   "private": true,
-  // "homepage": "",
+  "homepage": "https://sungjoon-park.github.io/social-media-2/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "concurrently": "^5.0.2",
